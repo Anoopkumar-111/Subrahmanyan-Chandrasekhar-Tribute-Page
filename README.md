@@ -1,5 +1,5 @@
 # Subrahmanyan-Chandrasekhar-Tribute-Page
-Tribute-Page created by using only HTML and CSS
+This Tribute page is build using plain HTML and CSS
 
 A tribute page dedicated to a nobel prize winner Subrahmanyan Chandrasekhar.
 Subrahmanyan Chandrasekhar was an astrophysicist. 
