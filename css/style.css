@@ -1,0 +1,58 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#image{
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+ul {
+    display: table; 
+    margin: 0 auto;
+    text-align: left;
+}
+
+#title{
+    font-size: 3rem;
+    background-color: rgb(212, 207, 207);
+    width: 100%;
+}
+#img-caption {
+    font-size: 1.8rem;
+    font-weight: bold;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+#tribute-link {
+    display: block;
+    font-size: 2rem;
+    font-weight: bold;
+    color: rgb(172, 8, 8);
+    text-align: center;
+    width: 100%;
+}
+
+.center{
+    margin: auto;
+    width: 80%;
+    text-align: center;
+}
+
+
+#nobel-content,#carrier-histry{
+    background-color: rgb(212, 207, 207);
+    width: 80%;
+    border: 2px solid grey;
+}
+
+li{
+    font-size: 1.5rem;
+}
+#main{
+    background-color: rgb(236, 234, 234);
+}
